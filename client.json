@@ -1,0 +1,40 @@
+[
+    {
+        "clientname" : "Maddy",
+        "desiredstyle" : "knotless braids",
+        "styleLength" : "midback",
+        "hairColor" : "black 1b",
+        "date" : "1/26/2027",
+        "time" : "11:00am",
+        "inspoPhoto" : "https://www.bing.com/images/search?view=detailV2&ccid=Ee1BUZJm&id=F3C2B85FAF9FC84F53E91B59EAC17BDF00A9E663&thid=OIP.Ee1BUZJmfQTzSeF8EAdV2wHaHa&mediaurl=https%3a%2f%2ffrohub.com%2fwp-content%2fuploads%2f2024%2f07%2fIMG_1130.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.11ed415192667d04f349e17c100755db%3frik%3dY%252bapAN97wepZGw%26pid%3dImgRaw%26r%3d0&exph=1179&expw=1179&q=knotless+braids&FORM=IRPRST&ck=FA28DFEDAD06A7808827C10B7F8BA8CE&selectedIndex=7&itb=0"
+    },
+    {
+        "clientname" : "Malik",
+        "desiredstyle" : "retwist",
+        "styleLength" : "natural length",
+        "hairColor" : "natural color",
+        "date" : "3/26/2026",
+        "time" : "5:00pm",
+        "inspoPhoto" : "https://www.bing.com/images/search?view=detailV2&ccid=Tb4GvGvD&id=9C63B747586C59F9BFF9904B359449B034452439&thid=OIP.Tb4GvGvD9d0oMj0otNctzwHaJQ&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fcc%2f86%2ffe%2fcc86feca9050f1690fe9af59d8d4a377.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4dbe06bc6bc3f5dd28323d28b4d72dcf%3frik%3dOSRFNLBJlDVLkA%26pid%3dImgRaw%26r%3d0&exph=1350&expw=1080&q=retwist&FORM=IRPRST&ck=CCC43BC2AE22A258F8871B4E7AEA1ED5&selectedIndex=4&itb=0"
+
+    },
+    {
+        "clientname" : "Jay",
+        "desiredstyle" : "cornrows",
+        "styleLength" : "natural length",
+        "hairColor" : "natural color",
+        "date" : "4/26/2026",
+        "time" : "11:30am",
+        "inspoPhoto" : " https://www.bing.com/images/search?view=detailV2&ccid=CdlQ%2fWx9&id=9D957E39CA462785C76F6F4F0B1BD3BB7A578783&thid=OIP.CdlQ_Wx9q9vWvhpemd8kDQHaHa&mediaurl=https%3a%2f%2fwww.hoodmwr.com%2fwp-content%2fuploads%2f2023%2f04%2f22.-Criss-Cross-Cornrows.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09d950fd6c7dabdbd6be1a5e99df240d%3frik%3dg4dXervTGwtPbw%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=men+cornrows&FORM=IRPRST&ck=E321BA6992BBE2D8291BE094E9E575A0&selectedIndex=16&itb=0"
+       
+    },
+    {
+        "clientname" : "Jasmin",
+        "desiredstyle" : "8 stitch braids",
+        "styleLength" : "standard waist length",
+        "hairColor" : "ginger 30",
+        "date" : "5/26/2026",
+        "time" : "2:00pm",
+        "inspoPhoto" :"https://www.bing.com/images/search?view=detailV2&ccid=Te6Cum1j&id=71E9121EAB422E40C2388707D71B1C9360EA2B71&thid=OIP.Te6Cum1jnS8w-wWRFVmTSwHaJQ&mediaurl=https%3a%2f%2fbraidhairstyles.com%2fwp-content%2fuploads%2f2022%2f12%2fStitch-Cornrows.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4dee82ba6d639d2f30fb05911559934b%3frik%3dcSvqYJMcG9cHhw%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1440&q=8+stitch+braids&FORM=IRPRST&ck=784214151ED553A57EB41696217D171A&selectedIndex=8&itb=0"
+    }
+]
